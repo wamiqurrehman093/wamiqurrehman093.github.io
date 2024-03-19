@@ -1,0 +1,17 @@
+header {
+    grid-template-columns: 1fr;
+    gap: 32px;
+    margin-top: 8px;
+}
+
+.content {
+    align-self: flex-end;
+}
+
+.nav-links {
+    align-self: flex-start;
+}
+
+.nav-links a {
+    margin-bottom: 8px;
+}

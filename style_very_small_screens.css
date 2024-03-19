@@ -1,0 +1,23 @@
+body {
+    font-size: large;
+}
+
+h1 {
+    font-size:28px;
+}
+
+header {
+    gap: 16px;
+    padding: 0px;
+    margin: 8px 0px 32px 0px;
+}
+
+.nav-links {
+    gap: 16px;
+    grid-template-columns: 1fr;
+}
+
+.nav-links a {
+    padding: 16px;
+    margin-bottom: 8px;
+}
